@@ -1,6 +1,7 @@
 nav{
-    text-decoration: solid;
+    text-decoration: none;
     color: rgb(163, 37, 37);
+    background-color: burlywood;
 }
 
 nav a:hover{
