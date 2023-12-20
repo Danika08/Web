@@ -1,11 +1,9 @@
-nav{
+nav a {
+    color: rgb(19, 34, 43);
     text-decoration: none;
-    color: palevioletred;
-    background-color: burlywood;
+    background-color: rgba(0, 255, 221, 0.74);
 }
-
 nav a:hover{
-    color: greenyellow;
+    color: rgb(217, 255, 0);
     font-weight: bold;
-
 }
