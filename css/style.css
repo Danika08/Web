@@ -7,3 +7,6 @@ nav a:hover{
     color: rgb(217, 255, 0);
     font-weight: bold;
 }
+footer{
+    background-color: aqua;
+}
