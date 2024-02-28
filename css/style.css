@@ -10,3 +10,26 @@ nav a:hover{
 body{
     background-color: bisque;
 }
+.nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgba(0, 255, 234, 0.1);
+  }
+  
+  .nav li {
+    float: left;
+  }
+  
+  .nav li a {
+    display: block;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  .nav li a:hover:not(.active) {
+    background-color: #2b00ff;
+  }
