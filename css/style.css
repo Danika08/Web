@@ -10,3 +10,8 @@ nav a:hover{
 body{
     background-color: azure;
 }
+a:active{
+    color: orange;
+    text-decoration: none;
+    background-color: darksalmon;
+}
