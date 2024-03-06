@@ -15,3 +15,7 @@ a:active{
     text-decoration: none;
     background-color: darksalmon;
 }
+#kollazs{
+    float: left;
+    margin: auto;
+}
