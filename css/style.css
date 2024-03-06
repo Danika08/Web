@@ -13,7 +13,7 @@ body{
 a:active{
     color: orange;
     text-decoration: none;
-    background-color: darksalmon;
+    background-color: rgb(233, 150, 122);
 }
 #kollazs{
     float: left;
