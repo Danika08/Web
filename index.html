@@ -52,8 +52,17 @@
 
                  <form>
                     <p>Add meg a neved</p>
-                    <input type="text" name="Nev" id="nev">
+                    <p id="ide"></p>
+                    <label for=""></label>
+                    <input type="text" name="Nev" id="nev" onchange="nev">
+                    <script>
+                        function nev(){
+                            document.getElementById("ide").innerHTML="Hello" + nev.value;
+                        }
 
+
+
+                    </script>
 
 
 
