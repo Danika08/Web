@@ -1,21 +1,13 @@
 nav  {
     color: rgb(19, 34, 43);
     text-decoration: none;
-    background-color: rgba(0, 255, 221, 0.74);
+    background-color:aqua;
 }
 nav a:hover{
-    color: rgb(217, 255, 0);
+    color: aquamarine;
     font-weight: bold;
 }
 body{
     background-color: azure;
 }
-a:active{
-    color: orange;
-    text-decoration: none;
-    background-color: rgb(233, 150, 122);
-}
-#kollazs{
-    float: left;
-    margin: auto;
-}
+
