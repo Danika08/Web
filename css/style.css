@@ -1,11 +1,13 @@
 nav  {
-    color: rgb(19, 34, 43);
+    color: orange;
     text-decoration: none;
     background-color:aqua;
 }
-nav a:hover{
+nav a:hover, :visited, :active, link{
     color: aquamarine;
     font-weight: bold;
+    text-decoration: none;
+
 }
 body{
     background-color: azure;
